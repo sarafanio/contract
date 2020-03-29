@@ -5,5 +5,17 @@
 # build
 build
 
-# python
+# jupyter
+*.ipynb
+.ipynb_checkpoints
+
+# virtualenvs
 .python-version
+.node-version
+
+# node
+node_modules/
+
+# secrets
+.secret
+.infura
