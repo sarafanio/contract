@@ -4,7 +4,7 @@ This repository contains sources for Sarafan network contracts.
 
 Contracts deployed to Ethereum **MAINNET**:
 
-* SRFN token contract: `0x957D0b2E4afA74A49bbEa4d7333D13c0b11af60F` (**send ether here to receive SRFN tokens **)
+* SRFN token contract: `0x957D0b2E4afA74A49bbEa4d7333D13c0b11af60F` (**send ether here to receive SRFN tokens**)
 * Content contract: `0x216c867a6bB7eFE026fA67eCB66ba65E1126598E`
 * Peering contract: `0x11ECFE316b0782f8785287511Ea70a3FF51e0Dec`
 
