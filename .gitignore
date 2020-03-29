@@ -1,0 +1,9 @@
+# IDEs
+.idea
+*.code-workspace
+
+# build
+build
+
+# python
+.python-version
