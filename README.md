@@ -2,6 +2,8 @@
 
 This repository contains sources for Sarafan network contracts.
 
+Contracts follow the rules described in [the whitepaper](https://github.com/sarafanio/docs/blob/master/whitepaper.md).
+
 Contracts deployed to Ethereum **MAINNET**:
 
 * SRFN token contract: `0x957D0b2E4afA74A49bbEa4d7333D13c0b11af60F` (**send ether here to receive SRFN tokens**)
